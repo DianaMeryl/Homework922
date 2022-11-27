@@ -1,0 +1,11 @@
+C:\Users\HP Notebook\source\repos\Homework2\HomeWork25\bin\Debug\HomeWork25.exe.config
+C:\Users\HP Notebook\source\repos\Homework2\HomeWork25\bin\Debug\HomeWork25.exe
+C:\Users\HP Notebook\source\repos\Homework2\HomeWork25\bin\Debug\HomeWork25.pdb
+C:\Users\HP Notebook\source\repos\Homework2\HomeWork25\obj\Debug\HomeWork25.csproj.AssemblyReference.cache
+C:\Users\HP Notebook\source\repos\Homework2\HomeWork25\obj\Debug\HomeWork25.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP Notebook\source\repos\Homework2\HomeWork25\obj\Debug\HomeWork25.Form1.resources
+C:\Users\HP Notebook\source\repos\Homework2\HomeWork25\obj\Debug\HomeWork25.Properties.Resources.resources
+C:\Users\HP Notebook\source\repos\Homework2\HomeWork25\obj\Debug\HomeWork25.csproj.GenerateResource.cache
+C:\Users\HP Notebook\source\repos\Homework2\HomeWork25\obj\Debug\HomeWork25.csproj.CoreCompileInputs.cache
+C:\Users\HP Notebook\source\repos\Homework2\HomeWork25\obj\Debug\HomeWork25.exe
+C:\Users\HP Notebook\source\repos\Homework2\HomeWork25\obj\Debug\HomeWork25.pdb

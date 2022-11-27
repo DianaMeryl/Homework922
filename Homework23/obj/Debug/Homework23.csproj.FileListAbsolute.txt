@@ -1,0 +1,8 @@
+C:\Users\HP Notebook\source\repos\Homework2\Homework23\bin\Debug\Homework23.exe.config
+C:\Users\HP Notebook\source\repos\Homework2\Homework23\bin\Debug\Homework23.exe
+C:\Users\HP Notebook\source\repos\Homework2\Homework23\bin\Debug\Homework23.pdb
+C:\Users\HP Notebook\source\repos\Homework2\Homework23\obj\Debug\Homework23.csproj.AssemblyReference.cache
+C:\Users\HP Notebook\source\repos\Homework2\Homework23\obj\Debug\Homework23.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP Notebook\source\repos\Homework2\Homework23\obj\Debug\Homework23.csproj.CoreCompileInputs.cache
+C:\Users\HP Notebook\source\repos\Homework2\Homework23\obj\Debug\Homework23.exe
+C:\Users\HP Notebook\source\repos\Homework2\Homework23\obj\Debug\Homework23.pdb
